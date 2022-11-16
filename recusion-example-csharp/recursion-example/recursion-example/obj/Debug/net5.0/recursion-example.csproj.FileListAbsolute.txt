@@ -1,0 +1,15 @@
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/bin/Debug/net5.0/recursion-example.deps.json
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/bin/Debug/net5.0/recursion-example.runtimeconfig.json
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/bin/Debug/net5.0/recursion-example.runtimeconfig.dev.json
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/bin/Debug/net5.0/recursion-example.dll
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/bin/Debug/net5.0/ref/recursion-example.dll
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/bin/Debug/net5.0/recursion-example.pdb
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/obj/Debug/net5.0/recursion-example.csproj.AssemblyReference.cache
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/obj/Debug/net5.0/recursion-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/obj/Debug/net5.0/recursion-example.AssemblyInfoInputs.cache
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/obj/Debug/net5.0/recursion-example.AssemblyInfo.cs
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/obj/Debug/net5.0/recursion-example.csproj.CoreCompileInputs.cache
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/obj/Debug/net5.0/recursion-example.dll
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/obj/Debug/net5.0/ref/recursion-example.dll
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/obj/Debug/net5.0/recursion-example.pdb
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/recusion-example-csharp/recursion-example/recursion-example/obj/Debug/net5.0/recursion-example.genruntimeconfig.cache

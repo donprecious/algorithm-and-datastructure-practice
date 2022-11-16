@@ -1,0 +1,15 @@
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/bin/Debug/net5.0/BinarySearch.deps.json
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/bin/Debug/net5.0/BinarySearch.runtimeconfig.json
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/bin/Debug/net5.0/BinarySearch.runtimeconfig.dev.json
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/bin/Debug/net5.0/BinarySearch.dll
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/bin/Debug/net5.0/ref/BinarySearch.dll
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/bin/Debug/net5.0/BinarySearch.pdb
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/obj/Debug/net5.0/BinarySearch.csproj.AssemblyReference.cache
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/obj/Debug/net5.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/obj/Debug/net5.0/BinarySearch.AssemblyInfoInputs.cache
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/obj/Debug/net5.0/BinarySearch.AssemblyInfo.cs
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/obj/Debug/net5.0/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/obj/Debug/net5.0/BinarySearch.dll
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/obj/Debug/net5.0/ref/BinarySearch.dll
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/obj/Debug/net5.0/BinarySearch.pdb
+/Users/preciousiyeritufu/Desktop/stackgip/algorithm-datastructure/binary-search-csharp/BinarySearch/BinarySearch/obj/Debug/net5.0/BinarySearch.genruntimeconfig.cache
